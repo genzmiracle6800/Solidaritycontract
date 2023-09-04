@@ -1,0 +1,2 @@
+# Solidaritycontract
+Contract code
